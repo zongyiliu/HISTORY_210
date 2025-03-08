@@ -6,11 +6,3 @@ This course was taken in the University of Michigan, Fall 2021. It discusses the
 
 實際上內容和耶魯的那個 ([The Early Middle Ages](https://oyc.yale.edu/NODE/171)) 幾乎一樣, 但是UM的老師比那個老師好.
 
----
-Readings:
-
-* [The Rule](http://www.benedictfriend.org/the-rule.html), by St. Benedict
-* [Beowulf](https://www.gutenberg.org/files/16328/16328-h/16328-h.htm)
-* [Short History of the Middle Ages, vol 1.](https://www.amazon.com/Short-History-Middle-Ages-c-1150/dp/1442636262), by Barbara H. Rosenwein
-* [Medieval Europe: A Short History](https://www.amazon.com/Medieval-Europe-Judith-M-Bennett/dp/0073385506), by Judith M. Bennett
-* [Economic and Social History of Medieval Europe](https://www.google.com/books/edition/Economic_and_Social_History_of_Medieval/fFECoQEACAAJ?hl=en), by Henri Pirenne 
