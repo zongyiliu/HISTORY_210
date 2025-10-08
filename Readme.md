@@ -8,4 +8,4 @@ This course was taken in the University of Michigan, Fall 2021. It discusses the
 
 閱讀:
 * [Reading the Middle Ages : sources from Europe, Byzantium, and the Islamic World](https://archive.org/details/readingmiddleage0002unse) by  (原始檔案)
-* [https://archive.org/details/lateantiquitygui00bowe](Late Antiquity : a Guide to the Postclassical World)
+* [https://archive.org/details/lateantiquitygui00bowe](Late Antiquity: a Guide to the Postclassical World)
