@@ -7,4 +7,4 @@ This course was taken in the University of Michigan, Fall 2021. It discusses the
 實際上內容和耶魯的那個 ([The Early Middle Ages](https://oyc.yale.edu/NODE/171)) 幾乎一樣, 但是UM的老師比那個老師好. 後來我也把耶魯那個聽完了.
 
 閱讀:
-* [Reading the Middle Ages : sources from Europe, Byzantium, and the Islamic world](https://archive.org/details/readingmiddleage0002unse)
+* [Reading the Middle Ages : sources from Europe, Byzantium, and the Islamic World](https://archive.org/details/readingmiddleage0002unse) (原始檔案)
